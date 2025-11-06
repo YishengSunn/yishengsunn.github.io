@@ -3412,18 +3412,18 @@ input, select, textarea {
 /* Intro */
 
 	#intro .logo {
-		border-bottom: 0;
-		display: block;
-		margin: 0 auto 1em auto;
-		overflow: hidden;
-		position: relative;
-		width: 8em;
-        height: 8em;
+        border-bottom: 0;
+        display: block;
+        margin: 0 0 1em 2em;
+        overflow: hidden;
+        position: relative;
+        width: 12em;
+        height: 12em;
         border-radius: 50%;
         background: #f4f4f4;
         padding: 0.5em;
-	}
-
+    }
+	
 	#intro .logo img {
 		display: block;
 		width: 100%;
