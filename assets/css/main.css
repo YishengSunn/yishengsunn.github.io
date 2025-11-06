@@ -3601,3 +3601,7 @@ input, select, textarea {
 			}
 
 		}
+
+	#intro header p {
+		text-transform: none;
+	}
