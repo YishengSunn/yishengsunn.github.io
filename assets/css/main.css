@@ -3617,8 +3617,8 @@ input, select, textarea {
 	}
 
 	.mini-post header p {
-		margin-top: 0.05em;
-		margin-bottom: 0.05em;
+		margin-top: 0.0em;
+		margin-bottom: 0.0em;
 		line-height: 1.4em;
 	}
 
