@@ -3639,10 +3639,14 @@ border-left: none !important;
 }
 
 .caption-with-button {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	margin-top: 0.5em;
-	font-size: 0.85em;
-	color: #666;
+    display: flex;
+    flex-direction: column;  /* 垂直排列文字和按钮 */
+    align-items: center;     /* 水平居中 */
+    gap: 0.5em;              /* 图说与按钮间距 */
+}
+
+.applause-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
