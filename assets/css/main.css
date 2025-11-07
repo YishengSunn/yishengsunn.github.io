@@ -2341,6 +2341,15 @@ input, select, textarea {
 
 			}
 
+		.image figcaption {
+			display: block;
+			text-align: center;
+			font-size: 0.9em;
+			color: #7a7a7a;
+			margin-top: 0.6em;
+			font-style: italic;
+		}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
