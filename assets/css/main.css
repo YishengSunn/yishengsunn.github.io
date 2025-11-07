@@ -229,15 +229,6 @@ input, select, textarea {
 		font-size: 0.7em;
 	}
 
-	.section-title {
-		font-size: 1.2em;
-		color: #3c3b3b;
-		font-family: "Raleway", Helvetica, sans-serif;
-		font-weight: 800;
-		letter-spacing: 0.1em;
-		margin: 1.5em 0 1em 0;
-	}
-
 	h5 {
 		font-size: 0.7em;
 	}
@@ -3623,7 +3614,7 @@ input, select, textarea {
 	#intro header p {
 		text-transform: none;
 	}
-
+.h2,
 .links li a h3,
 .links li a p,
 .post header h2,
